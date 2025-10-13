@@ -11,7 +11,7 @@ console.log(typeof (valueInNumber)); */
 /*let score = "33abc"
 let valueInNumber = Number(score)
 console.log(typeof(valueInNumber));
-console.log(valueInNumber) */  // NaN
+console.log(valueInNumber) */  // NaN (Not a number)
 
 /* let score = null
 let valueInNumber = Number(score)
