@@ -31,14 +31,14 @@ console.log(Math.floor(4.9));//take the lowervalue
 console.log(Math.min(3,4,5));
 console.log(Math.max(3,4,5)); */
 
-console.log(Math.random()); //value always come in between 0 to 1
+console.log(Math.random()); //value always come in between 0 to 1 value can 0.1, 0.2
 console.log((Math.random()*10)+ 1); //10 meaning where should the value be exmaple - dashed game value have last 1 to 6 --- * 6
 console.log(Math.floor(Math.random()*10)+ 1); //only need one number
 
 
 const min = 10
 const max = 20
-console.log(Math.floor())
+console.log(Math.floor(Math.random()* (max - min + 1 )) + min);
 
 
 
